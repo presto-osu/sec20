@@ -1,5 +1,5 @@
 This release includes the datasets
-described in the USENIX Secutr'20 [paper](http://web.cse.ohio-state.edu/presto/pubs/sec20.pdf):
+described in the USENIX Security'20 [paper](http://web.cse.ohio-state.edu/presto/pubs/sec20.pdf):
 
 ```
 @inproceedings{zhang-sec20,
