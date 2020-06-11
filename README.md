@@ -1,4 +1,4 @@
-This release includes the datasets described in the following USENIX Security'20 [paper](http://web.cse.ohio-state.edu/presto/pubs/sec20.pdf):
+This release includes the [dataset](https://github.com/presto-osu/sec20/releases/tag/dataset) described in the following USENIX Security'20 [paper](http://web.cse.ohio-state.edu/presto/pubs/sec20.pdf):
 
 ```
 @inproceedings{zhang-sec20,
