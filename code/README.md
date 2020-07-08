@@ -16,6 +16,7 @@ $ cd sec20
 Download and extract the [data](https://github.com/presto-osu/sec20/releases/tag/dataset) to folder `sec20/code/dataset`. Then run the following commands:
 
 ```bash
+$ cd code
 $ bash all.sh
 $ bash all_attack.sh
 ```
