@@ -13,7 +13,7 @@ $ git clone https://github.com/presto-osu/sec20.git
 $ cd sec20
 ```
 
-Download and extract the [data](https://github.com/presto-osu/sec20/releases/tag/dataset) to folder `dataset`. Then run the following commands:
+Download and extract the [data](https://github.com/presto-osu/sec20/releases/tag/dataset) to folder `sec20/code/dataset`. Then run the following commands:
 
 ```bash
 $ bash all.sh
