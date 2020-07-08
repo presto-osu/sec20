@@ -1,7 +1,7 @@
 This directory contains the code and scripts to run
 the experiments described in the paper.
 Please look at class `Main`, `MainTighterRestricted`,
-and `MainRelaxedDistance` in `./src/main/java/` for the
+and `MainRelaxedDistance` in `sec20/code/src/main/java/` for the
 implementation details. 
 
 ## Run
