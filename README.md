@@ -1,4 +1,4 @@
-This release includes the [code](code) for the experimental evaluation and the [dataset](https://github.com/presto-osu/sec20/releases/tag/dataset) described in the following USENIX Security'20 [paper](http://web.cse.ohio-state.edu/presto/pubs/sec20.pdf):
+This release includes the [code](code) for the experimental evaluation and the [dataset](https://github.com/presto-osu/sec20/releases/tag/dataset) described in the following USENIX Security'20 [paper](https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-hailong):
 
 ```
 @inproceedings{zhang-sec20,
@@ -6,8 +6,7 @@ This release includes the [code](code) for the experimental evaluation and the [
   author = "Hailong Zhang and Sufian Latif and Raef Bassily and Atanas Rountev",
   booktitle = "USENIX Security Symposium (USENIX Security)",
   year = 2020,
-  month = aug,
-  note = {To appear.}
+  month = aug
 }
 ```
 
