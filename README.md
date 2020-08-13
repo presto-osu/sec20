@@ -9,7 +9,7 @@ This release includes the [code](code) for the experimental evaluation and the [
   isbn = {978-1-939133-17-5},
   pages = {1021--1038},
   url = {https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-hailong},
-  publisher = {{USENIX} Association},
+  publisher = "{USENIX} Association",
   month = aug,
 }
 ```
