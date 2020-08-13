@@ -2,11 +2,15 @@ This release includes the [code](code) for the experimental evaluation and the [
 
 ```
 @inproceedings{zhang-sec20,
-  title = "Differentially-Private Control-Flow Node Coverage for Software Usage Analysis",
-  author = "Hailong Zhang and Sufian Latif and Raef Bassily and Atanas Rountev",
-  booktitle = "USENIX Security Symposium (USENIX Security)",
-  year = 2020,
-  month = aug
+  author = {Hailong Zhang and Sufian Latif and Raef Bassily and Atanas Rountev},
+  title = {Differentially-Private Control-Flow Node Coverage for Software Usage Analysis},
+  booktitle = {29th {USENIX} Security Symposium ({USENIX} Security 20)},
+  year = {2020},
+  isbn = {978-1-939133-17-5},
+  pages = {1021--1038},
+  url = {https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-hailong},
+  publisher = {{USENIX} Association},
+  month = aug,
 }
 ```
 
