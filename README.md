@@ -1,4 +1,4 @@
-This release includes the [code](code) for the experimental evaluation and the [dataset](https://github.com/presto-osu/sec20/releases/tag/dataset) described in the following [paper](https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-hailong):
+This release includes the [code](code) for the experimental evaluation and the [dataset](https://github.com/presto-osu/sec20/releases/tag/dataset) described in the following [pa](https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-hailong)[per](http://web.cse.ohio-state.edu/presto/pubs/sec20.pdf):
 
 ```
 @inproceedings{zhang-sec20,
